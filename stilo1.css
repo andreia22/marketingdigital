@@ -2,20 +2,22 @@
 
 body {
 
-    background-image: url("logo2.jpg");
-    background-repeat: no-repeat;
+    background-color: #184425;
+    color: rgba(0,0,0,1);
 }
 div#interface{
     width: 900px;
-    background-color: #ffffff;
+    background-color: #568b65;
     margin: -20px auto 10px auto;
-    box-shadow: 0px 0px 10px rgba  m(0,0,0,.5);
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
     padding: 10px 100px 10px 10px;
-   }
-img#logo {
-
    }
     p {
     text-align: justify;/* alinhamento de paragrafos*/
     text-indent: 50px;
+   }
+   header#cabecalho img#logo {
+    position: relative;
+    left: 50px;
+    top: auto;
    }
