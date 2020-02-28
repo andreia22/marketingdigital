@@ -3,4 +3,5 @@
 body {
 
     background-image: url("logo2.jpg");
+    background-repeat: no-repeat;
 }
